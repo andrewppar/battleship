@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.19">
+  <compounddef id="classbattleship" kind="class" language="C++" prot="public">
+    <compoundname>battleship</compoundname>
+    <includes refid="battleship_8h" local="no">battleship.h</includes>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classbattleship_1a62025b9503c7230def55c520a739c84d" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void battleship::build</definition>
+        <argsstring>()</argsstring>
+        <name>build</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Build a strong ship for conquest </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/andrew/Documents/c++/battleship/battleship/battleship.h" line="10" column="8" bodyfile="/home/andrew/Documents/c++/battleship/battleship/battleship.cpp" bodystart="3" bodyend="6"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para>A powerful battleship </para>
+    </detaileddescription>
+    <location file="/home/andrew/Documents/c++/battleship/battleship/battleship.h" line="6" column="1" bodyfile="/home/andrew/Documents/c++/battleship/battleship/battleship.h" bodystart="6" bodyend="11"/>
+    <listofallmembers>
+      <member refid="classbattleship_1a62025b9503c7230def55c520a739c84d" prot="private" virt="non-virtual"><scope>battleship</scope><name>build</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

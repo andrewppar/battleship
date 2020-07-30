@@ -1,0 +1,12 @@
+/home/andrew/Documents/c++/battleship/CMakeFiles/edit_cache.dir
+/home/andrew/Documents/c++/battleship/CMakeFiles/rebuild_cache.dir
+/home/andrew/Documents/c++/battleship/battleship/CMakeFiles/edit_cache.dir
+/home/andrew/Documents/c++/battleship/battleship/CMakeFiles/rebuild_cache.dir
+/home/andrew/Documents/c++/battleship/battleship/CMakeFiles/battleship.dir
+/home/andrew/Documents/c++/battleship/demo/CMakeFiles/edit_cache.dir
+/home/andrew/Documents/c++/battleship/demo/CMakeFiles/rebuild_cache.dir
+/home/andrew/Documents/c++/battleship/demo/CMakeFiles/mainDemo.dir
+/home/andrew/Documents/c++/battleship/docs/CMakeFiles/edit_cache.dir
+/home/andrew/Documents/c++/battleship/docs/CMakeFiles/rebuild_cache.dir
+/home/andrew/Documents/c++/battleship/docs/CMakeFiles/Sphinx.dir
+/home/andrew/Documents/c++/battleship/docs/CMakeFiles/Doxygen.dir
