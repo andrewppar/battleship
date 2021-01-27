@@ -43,6 +43,8 @@ void Game::play() {
 
 void Game::next_turn(bool increment_turn) {
  
+  //I don't like that I have to go through the ship 
+  //to get the coordinate status
   Coordinate& ship_coordinate = board.ship.bow_location() ;
   int x = ship_coordinate.x_coord() ;
   int y = ship_coordinate.y_coord() ; 
