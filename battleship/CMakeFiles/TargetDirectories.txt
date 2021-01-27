@@ -1,3 +1,0 @@
-/home/andrew/Documents/c++/battleship/battleship/CMakeFiles/edit_cache.dir
-/home/andrew/Documents/c++/battleship/battleship/CMakeFiles/rebuild_cache.dir
-/home/andrew/Documents/c++/battleship/battleship/CMakeFiles/battleship.dir

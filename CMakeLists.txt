@@ -1,9 +1,10 @@
 cmake_minimum_required(VERSION 3.5)
-project("battleship")
+project("battleship_two")
 
-# Add the cmake folder so the FindSphinx module is found
-set(CMAKE_MODULE_PATH "${PROJECT_SOURCE_DIR}/cmake" ${CMAKE_MODULE_PATH})
+set (CMAKE_CXX_STANDARD 11)
 
-add_subdirectory("battleship")
-add_subdirectory("demo")
-add_subdirectory("docs")
+include_directories(include)
+
+file(GLOB SOURCES "src/*.cpp")
+
+add_executable(battleship_game ${SOURCES})
